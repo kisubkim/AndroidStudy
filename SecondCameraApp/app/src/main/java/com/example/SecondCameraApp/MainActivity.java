@@ -1,4 +1,4 @@
-package com.example.firstact;
+package com.example.Camera2Sample;
 
 import android.Manifest;
 import android.annotation.SuppressLint;

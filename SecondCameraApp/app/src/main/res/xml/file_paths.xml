@@ -2,5 +2,5 @@
 <paths>
     <external-path
         name="my_images"
-        path="Android/data/com.example.firstact/files/Pictures"/>
+        path="Android/data/com.example.Camera2Sample/files/Pictures"/>
 </paths>

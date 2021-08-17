@@ -1,4 +1,4 @@
-package com.example.firstact;
+package com.example.FirstCameraApp;
 
 import org.junit.Test;
 
